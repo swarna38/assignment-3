@@ -3,3 +3,9 @@
 body{
     font-family: "Manrope", sans-serif;
 }
+.contact-main{
+    background: url(../assets/bg.jpg);
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+}
